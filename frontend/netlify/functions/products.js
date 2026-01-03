@@ -1,4 +1,4 @@
-const data = require('../../db.json');
+const data = require('../../backend/db.json');
 
 exports.handler = async (event, context) => {
   const { id } = event.queryStringParameters || {};
