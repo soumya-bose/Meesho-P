@@ -1,0 +1,1223 @@
+{
+  "users": [
+    {
+      "id": "1767445085013",
+      "phone": "9331764666",
+      "name": "User",
+      "createdAt": "2026-01-03T12:58:05.013Z"
+    }
+  ],
+  "otp": [],
+  "products": [
+    {
+      "id": "1",
+      "name": "Women Kurti Dupatta with Bottom Premium Collection",
+      "price": 354,
+      "mrp": 999,
+      "image": "https://images.unsplash.com/photo-1585487000160-6ebcfceb0d03?w=500&q=80",
+      "rating": 4.1,
+      "reviews": 42020,
+      "occasion": "Daily",
+      "dupattaColor": "Purple",
+      "fit": "A-line",
+      "stitchType": "Stitched",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "2",
+      "name": "Women Trendy Cotton Kurti Stylish Design",
+      "price": 299,
+      "mrp": 899,
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=300&h=300&fit=crop",
+      "rating": 4.3,
+      "reviews": 35420,
+      "occasion": "Casual",
+      "dupattaColor": "Blue",
+      "fit": "Regular",
+      "stitchType": "Stitched",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "3",
+      "name": "Designer Party Wear Saree Fashion Collection",
+      "price": 399,
+      "mrp": 1499,
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=500&q=80",
+      "rating": 4.5,
+      "reviews": 28500,
+      "occasion": "Party",
+      "dupattaColor": "Red",
+      "fit": "Free Size",
+      "stitchType": "Stitched",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 5,
+      "isTrusted": true
+    },
+    {
+      "id": "4",
+      "name": "Stylish Phone Case Premium Protection Cover",
+      "price": 149,
+      "mrp": 599,
+      "image": "https://images.unsplash.com/photo-1753802865615-ae986876c16e?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4,
+      "reviews": 15200,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "Universal",
+      "stitchType": "N/A",
+      "sizes": [
+        "Universal"
+      ],
+      "imageCount": 2,
+      "isTrusted": false
+    },
+    {
+      "id": "5",
+      "name": "Men Comfortable Cotton T-Shirt Casual Wear",
+      "price": 249,
+      "mrp": 799,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=300&h=300&fit=crop",
+      "rating": 4.2,
+      "reviews": 22100,
+      "occasion": "Casual",
+      "dupattaColor": "N/A",
+      "fit": "Regular Fit",
+      "stitchType": "Stitched",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "6",
+      "name": "Women Western Top Trendy Designer Collection",
+      "price": 279,
+      "mrp": 899,
+      "image": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=500&q=80",
+      "rating": 4.4,
+      "reviews": 18900,
+      "occasion": "Casual",
+      "dupattaColor": "Pink",
+      "fit": "Regular",
+      "stitchType": "Stitched",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "7",
+      "name": "Jewelry Set Artificial Gold Plated Necklace",
+      "price": 199,
+      "mrp": 799,
+      "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=300&h=300&fit=crop",
+      "rating": 4.3,
+      "reviews": 31500,
+      "occasion": "Party",
+      "dupattaColor": "N/A",
+      "fit": "Adjustable",
+      "stitchType": "N/A",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "8",
+      "name": "Men Denim Jeans Stylish Slim Fit Collection",
+      "price": 499,
+      "mrp": 1699,
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=300&h=300&fit=crop",
+      "rating": 4.1,
+      "reviews": 26400,
+      "occasion": "Casual",
+      "dupattaColor": "N/A",
+      "fit": "Slim Fit",
+      "stitchType": "Stitched",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "9",
+      "name": "Women Handbag Stylish Shoulder Bag Fashion",
+      "price": 349,
+      "mrp": 1299,
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=300&h=300&fit=crop",
+      "rating": 4.2,
+      "reviews": 19800,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "N/A",
+      "stitchType": "N/A",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 3,
+      "isTrusted": false
+    },
+    {
+      "id": "10",
+      "name": "Women Sports Shoes Comfortable Running Sneakers",
+      "price": 549,
+      "mrp": 1899,
+      "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=300&h=300&fit=crop",
+      "rating": 4.5,
+      "reviews": 33200,
+      "occasion": "Sports",
+      "dupattaColor": "N/A",
+      "fit": "Regular",
+      "stitchType": "N/A",
+      "sizes": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "imageCount": 5,
+      "isTrusted": true
+    },
+    {
+      "id": "11",
+      "name": "Analog Watch Men Stylish Leather Strap",
+      "price": 299,
+      "mrp": 1199,
+      "image": "https://images.unsplash.com/photo-1762071775668-68a2dfda0318?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4,
+      "reviews": 12500,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "Adjustable",
+      "stitchType": "N/A",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 2,
+      "isTrusted": false
+    },
+    {
+      "id": "12",
+      "name": "Men Women Sunglasses UV Protected Stylish",
+      "price": 199,
+      "mrp": 699,
+      "image": "https://images.unsplash.com/photo-1658979244205-32cf1ce9478c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.1,
+      "reviews": 16700,
+      "occasion": "Outdoor",
+      "dupattaColor": "N/A",
+      "fit": "Universal",
+      "stitchType": "N/A",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "13",
+      "name": "Women Dupatta Chiffon Printed Designer",
+      "price": 179,
+      "mrp": 599,
+      "image": "https://images.unsplash.com/photo-1759840278361-f1adc75529a1?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.3,
+      "reviews": 21400,
+      "occasion": "Daily",
+      "dupattaColor": "Multi",
+      "fit": "Free Size",
+      "stitchType": "N/A",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "14",
+      "name": "Cotton Bedsheet Double Bed with 2 Pillow Covers",
+      "price": 399,
+      "mrp": 1299,
+      "image": "https://plus.unsplash.com/premium_photo-1670869816814-a144a3d07924?q=80&w=2080&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.4,
+      "reviews": 28900,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "Queen Size",
+      "stitchType": "Stitched",
+      "sizes": [
+        "Queen Size"
+      ],
+      "imageCount": 5,
+      "isTrusted": true
+    },
+    {
+      "id": "15",
+      "name": "Kitchen Utensils Set Non-Stick Cookware",
+      "price": 299,
+      "mrp": 999,
+      "image": "https://images.unsplash.com/photo-1579805625996-db7b60587362?q=80&w=729&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.2,
+      "reviews": 14300,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "N/A",
+      "stitchType": "N/A",
+      "sizes": [
+        "Set of 5"
+      ],
+      "imageCount": 3,
+      "isTrusted": false
+    },
+    {
+      "id": "16",
+      "name": "Women Palazzo Cotton Comfortable Bottom Wear",
+      "price": 259,
+      "mrp": 799,
+      "image": "https://images.unsplash.com/photo-1765615913134-878232b24670?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.3,
+      "reviews": 25600,
+      "occasion": "Casual",
+      "dupattaColor": "N/A",
+      "fit": "Regular",
+      "stitchType": "Stitched",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "17",
+      "name": "Baby Clothing Set Cotton Soft Comfortable",
+      "price": 329,
+      "mrp": 899,
+      "image": "https://images.unsplash.com/photo-1766918780914-e19d9de76d85?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.5,
+      "reviews": 18200,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "Regular",
+      "stitchType": "Stitched",
+      "sizes": [
+        "0-6M",
+        "6-12M",
+        "12-18M"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "18",
+      "name": "Men Formal Shirt Cotton Slim Fit Office Wear",
+      "price": 349,
+      "mrp": 1199,
+      "image": "https://images.unsplash.com/photo-1744208525808-66c60e0ea68c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.1,
+      "reviews": 22700,
+      "occasion": "Formal",
+      "dupattaColor": "N/A",
+      "fit": "Slim Fit",
+      "stitchType": "Stitched",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "19",
+      "name": "Wireless Earbuds Bluetooth 5.0 Touch Control",
+      "price": 499,
+      "mrp": 1999,
+      "image": "https://images.unsplash.com/photo-1673290457306-0f659d4849c7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4,
+      "reviews": 31500,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "N/A",
+      "stitchType": "N/A",
+      "sizes": [
+        "Universal"
+      ],
+      "imageCount": 5,
+      "isTrusted": true
+    },
+    {
+      "id": "20",
+      "name": "Women Leggings Ankle Length Stretchable",
+      "price": 199,
+      "mrp": 599,
+      "image": "https://media.istockphoto.com/id/669580820/photo/full-body-shot-of-young-happy-indian-woman-smiling-while-posing-and-leaning-on-the-right.jpg?s=2048x2048&w=is&k=20&c=9_ay_h6sS21t6ly9ptTbAeJT27BtPBUPrn7sEcoTaf8=",
+      "rating": 4.2,
+      "reviews": 27800,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "Stretchable",
+      "stitchType": "Stitched",
+      "sizes": [
+        "Free Size",
+        "M",
+        "L",
+        "XL"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "21",
+      "name": "Men Casual Shoes Loafers Comfortable Walking",
+      "price": 449,
+      "mrp": 1499,
+      "image": "https://images.unsplash.com/photo-1449505278894-297fdb3edbc1?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.3,
+      "reviews": 19600,
+      "occasion": "Casual",
+      "dupattaColor": "N/A",
+      "fit": "Regular",
+      "stitchType": "N/A",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "22",
+      "name": "Women Nightdress Cotton Comfortable Sleepwear",
+      "price": 279,
+      "mrp": 799,
+      "image": "https://images.unsplash.com/photo-1728487235932-2f18c17ceb3c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.4,
+      "reviews": 23400,
+      "occasion": "Night Wear",
+      "dupattaColor": "N/A",
+      "fit": "Regular",
+      "stitchType": "Stitched",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "23",
+      "name": "Curtains for Door Window Polyester Printed",
+      "price": 349,
+      "mrp": 999,
+      "image": "https://images.unsplash.com/photo-1712172424864-1778f0cd34e0?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.1,
+      "reviews": 16800,
+      "occasion": "Home Decor",
+      "dupattaColor": "N/A",
+      "fit": "7ft",
+      "stitchType": "N/A",
+      "sizes": [
+        "7ft",
+        "9ft"
+      ],
+      "imageCount": 4,
+      "isTrusted": false
+    },
+    {
+      "id": "24",
+      "name": "Makeup Kit Combo All in One Beauty Products",
+      "price": 399,
+      "mrp": 1499,
+      "image": "https://images.unsplash.com/photo-1591019479261-1a103585c559?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.2,
+      "reviews": 21900,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "N/A",
+      "stitchType": "N/A",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 5,
+      "isTrusted": true
+    },
+    {
+      "id": "25",
+      "name": "Women Ethnic Wear Gown Party Dress Designer",
+      "price": 449,
+      "mrp": 1699,
+      "image": "https://images.unsplash.com/photo-1733731406510-d2f6405c85dc?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.5,
+      "reviews": 29300,
+      "occasion": "Party",
+      "dupattaColor": "Golden",
+      "fit": "A-line",
+      "stitchType": "Stitched",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageCount": 5,
+      "isTrusted": true
+    },
+    {
+      "id": "26",
+      "name": "Men Track Pants Sports Lower Cotton Blend",
+      "price": 299,
+      "mrp": 899,
+      "image": "https://images.unsplash.com/photo-1600552456619-42cf5bc3186d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.2,
+      "reviews": 18700,
+      "occasion": "Sports",
+      "dupattaColor": "N/A",
+      "fit": "Regular",
+      "stitchType": "Stitched",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "27",
+      "name": "Kitchen Storage Container Set Airtight Plastic",
+      "price": 249,
+      "mrp": 799,
+      "image": "https://images.unsplash.com/photo-1688366051655-fac0f9308ece?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.3,
+      "reviews": 15600,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "N/A",
+      "stitchType": "N/A",
+      "sizes": [
+        "Set of 6"
+      ],
+      "imageCount": 4,
+      "isTrusted": false
+    },
+    {
+      "id": "28",
+      "name": "Women Fancy Dress",
+      "price": 199,
+      "mrp": 599,
+      "image": "https://images.unsplash.com/photo-1671848633245-79cc98b0dbe8?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.1,
+      "reviews": 32100,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "Regular",
+      "stitchType": "Stitched",
+      "sizes": [
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "imageCount": 2,
+      "isTrusted": true
+    },
+    {
+      "id": "29",
+      "name": "Toys for Kids Educational Learning Building Blocks",
+      "price": 349,
+      "mrp": 999,
+      "image": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.4,
+      "reviews": 24500,
+      "occasion": "Kids",
+      "dupattaColor": "N/A",
+      "fit": "N/A",
+      "stitchType": "N/A",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 5,
+      "isTrusted": true
+    },
+    {
+      "id": "30",
+      "name": "Men Wallet Leather Genuine Slim Bi-fold",
+      "price": 299,
+      "mrp": 999,
+      "image": "https://images.unsplash.com/photo-1677326768050-7d437347ca70?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.2,
+      "reviews": 17800,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "N/A",
+      "stitchType": "N/A",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "31",
+      "name": "Women Ethnic Kurta Set with Palazzo Designer",
+      "price": 449,
+      "mrp": 1499,
+      "image": "https://images.unsplash.com/photo-1741635622089-3472e0a0dea1?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.5,
+      "reviews": 36200,
+      "occasion": "Party",
+      "dupattaColor": "Orange",
+      "fit": "Regular",
+      "stitchType": "Stitched",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageCount": 5,
+      "isTrusted": true
+    },
+    {
+      "id": "32",
+      "name": "Men Sweatshirt Winter Wear Hooded Warm",
+      "price": 499,
+      "mrp": 1699,
+      "image": "https://images.unsplash.com/photo-1565600092331-e084545c0117?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.3,
+      "reviews": 21500,
+      "occasion": "Winter",
+      "dupattaColor": "N/A",
+      "fit": "Regular Fit",
+      "stitchType": "Stitched",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "33",
+      "name": "Backpack School Bag College Students Laptop Bag",
+      "price": 399,
+      "mrp": 1299,
+      "image": "https://images.unsplash.com/photo-1528921581519-52b9d779df2b?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.2,
+      "reviews": 19400,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "N/A",
+      "stitchType": "N/A",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "34",
+      "name": "Hair Dryer Professional Styling Tool Hot & Cold",
+      "price": 549,
+      "mrp": 1999,
+      "image": "https://images.unsplash.com/photo-1621607510248-9c78bbab941b?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.1,
+      "reviews": 13700,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "N/A",
+      "stitchType": "N/A",
+      "sizes": [
+        "Universal"
+      ],
+      "imageCount": 3,
+      "isTrusted": false
+    },
+    {
+      "id": "35",
+      "name": "Women Saree Silk Blend Party Wear Designer",
+      "price": 499,
+      "mrp": 1799,
+      "image": "https://images.unsplash.com/photo-1610048467807-0689a5f6c2a9?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.6,
+      "reviews": 41200,
+      "occasion": "Party",
+      "dupattaColor": "Maroon",
+      "fit": "Free Size",
+      "stitchType": "Stitched",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 5,
+      "isTrusted": true
+    },
+    {
+      "id": "36",
+      "name": "Men Formal Shoes Leather Office Wear Lace Up",
+      "price": 599,
+      "mrp": 1999,
+      "image": "https://images.unsplash.com/photo-1653868250450-b83e6263d427?q=80&w=1564&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.2,
+      "reviews": 16900,
+      "occasion": "Formal",
+      "dupattaColor": "N/A",
+      "fit": "Regular",
+      "stitchType": "N/A",
+      "sizes": [
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "37",
+      "name": "Women Western Dress One Piece Party Wear",
+      "price": 399,
+      "mrp": 1399,
+      "image": "https://images.unsplash.com/photo-1612364557094-98a4b47200f6?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.4,
+      "reviews": 28600,
+      "occasion": "Party",
+      "dupattaColor": "N/A",
+      "fit": "A-line",
+      "stitchType": "Stitched",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "imageCount": 5,
+      "isTrusted": true
+    },
+    {
+      "id": "38",
+      "name": "Water Bottle Steel Insulated Hot & Cold 1 Litre",
+      "price": 249,
+      "mrp": 799,
+      "image": "https://images.unsplash.com/photo-1631201553014-776760c89381?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.3,
+      "reviews": 22300,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "N/A",
+      "stitchType": "N/A",
+      "sizes": [
+        "1 Litre"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "39",
+      "name": "Kids Frock Party Dress Girls Designer Wear",
+      "price": 329,
+      "mrp": 999,
+      "image": "https://images.unsplash.com/photo-1700640821313-e2fa2d9b3724?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.5,
+      "reviews": 25800,
+      "occasion": "Party",
+      "dupattaColor": "N/A",
+      "fit": "Regular",
+      "stitchType": "Stitched",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y",
+        "5-6Y"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "40",
+      "name": "Face Serum Vitamin C Skin Brightening Anti Aging",
+      "price": 299,
+      "mrp": 999,
+      "image": "https://images.unsplash.com/photo-1648712789552-a039336cecf9?q=80&w=903&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.2,
+      "reviews": 19700,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "N/A",
+      "stitchType": "N/A",
+      "sizes": [
+        "30ml"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "41",
+      "name": "Men Jacket Winter Wear Bomber Style Casual",
+      "price": 599,
+      "mrp": 1999,
+      "image": "https://images.unsplash.com/photo-1667841027705-40d21bd2b0ba?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.3,
+      "reviews": 17600,
+      "occasion": "Winter",
+      "dupattaColor": "N/A",
+      "fit": "Regular Fit",
+      "stitchType": "Stitched",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageCount": 5,
+      "isTrusted": true
+    },
+    {
+      "id": "42",
+      "name": "Women Slipper Comfortable Flat Casual Footwear",
+      "price": 179,
+      "mrp": 599,
+      "image": "https://images.unsplash.com/photo-1641482845569-70e2b54b18d9?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.1,
+      "reviews": 24900,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "Regular",
+      "stitchType": "N/A",
+      "sizes": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "43",
+      "name": "Bluetooth Speaker Portable Wireless Bass Sound",
+      "price": 399,
+      "mrp": 1499,
+      "image": "https://images.unsplash.com/photo-1668649175276-fa4f96beb185?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.2,
+      "reviews": 31800,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "N/A",
+      "stitchType": "N/A",
+      "sizes": [
+        "Universal"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "44",
+      "name": "Women Ethnic Blouse Designer Stitched Readymade",
+      "price": 249,
+      "mrp": 799,
+      "image": "https://images.unsplash.com/photo-1693988104217-e0b08e17d3ec?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.4,
+      "reviews": 27400,
+      "occasion": "Party",
+      "dupattaColor": "N/A",
+      "fit": "Regular",
+      "stitchType": "Stitched",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "45",
+      "name": "Men Belt Leather Formal Casual Reversible",
+      "price": 199,
+      "mrp": 699,
+      "image": "https://media.istockphoto.com/id/523659605/photo/mens-belt-isolated-over-white.jpg?s=2048x2048&w=is&k=20&c=I0jiOPWxoftGOg2rzxuXn9_Lu0lZHum9iMEEUVzToH0=",
+      "rating": 4,
+      "reviews": 14500,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "Adjustable",
+      "stitchType": "N/A",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 2,
+      "isTrusted": false
+    },
+    {
+      "id": "46",
+      "name": "Pressure Cooker Aluminium Inner Lid 3 Litre",
+      "price": 449,
+      "mrp": 1299,
+      "image": "https://media.istockphoto.com/id/2042230300/photo/small-stainless-steel-pressure-cooker.jpg?s=2048x2048&w=is&k=20&c=J2gw0jZVEsaaZjVhhXgnlRWXUBbWRKgSHpRz9i_LA3M=",
+      "rating": 4.3,
+      "reviews": 18900,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "3 Litre",
+      "stitchType": "N/A",
+      "sizes": [
+        "3 Litre"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "47",
+      "name": "Electric Kettle Stainless Steel 1.5 Litre",
+      "price": 599,
+      "mrp": 1799,
+      "image": "https://media.istockphoto.com/id/585799726/photo/stainless-electric-kettle.jpg?s=2048x2048&w=is&k=20&c=UYnk3a2M_-n7MMS-PnwdzlhValy4JRt9dsMEtoJwHlY=",
+      "rating": 4.2,
+      "reviews": 21400,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "1.5 Litre",
+      "stitchType": "N/A",
+      "sizes": [
+        "1.5 Litre"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "48",
+      "name": "Women Cotton Anarkali Kurti Party Wear",
+      "price": 429,
+      "mrp": 1499,
+      "image": "https://media.istockphoto.com/id/1430375625/photo/happy-young-woman-greeting.jpg?s=2048x2048&w=is&k=20&c=hHrMRVi33pfrxI1m8LIMjrMW4dXCOqC5zxgS2d_9e_M=",
+      "rating": 4.4,
+      "reviews": 32700,
+      "occasion": "Party",
+      "dupattaColor": "Blue",
+      "fit": "Anarkali",
+      "stitchType": "Stitched",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "imageCount": 5,
+      "isTrusted": true
+    },
+    {
+      "id": "49",
+      "name": "Men Casual Printed Shirt Cotton Blend",
+      "price": 329,
+      "mrp": 1099,
+      "image": "https://images.unsplash.com/photo-1622470953794-aa9c70b0fb9d?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.1,
+      "reviews": 19800,
+      "occasion": "Casual",
+      "dupattaColor": "N/A",
+      "fit": "Regular Fit",
+      "stitchType": "Stitched",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "50",
+      "name": "Women Sandal Flat Casual Daily Wear",
+      "price": 249,
+      "mrp": 799,
+      "image": "https://plus.unsplash.com/premium_photo-1728947850506-8701d621900b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.2,
+      "reviews": 28600,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "Regular",
+      "stitchType": "N/A",
+      "sizes": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "51",
+      "name": "Laptop Table Foldable Wooden Study Desk",
+      "price": 699,
+      "mrp": 2199,
+      "image": "https://images.unsplash.com/photo-1661701958227-5bd5cb2c58a2?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.3,
+      "reviews": 17400,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "Foldable",
+      "stitchType": "N/A",
+      "sizes": [
+        "Standard"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "52",
+      "name": "Women Leggings Cotton Lycra Pack of 2",
+      "price": 299,
+      "mrp": 899,
+      "image": "https://media.istockphoto.com/id/451846279/photo/fashion-pants-on-long-slim-legs.jpg?s=2048x2048&w=is&k=20&c=E5o-SG-pwz49nv31lFxBRGEbtuQHGiljb2CLW3jiy3I=",
+      "rating": 4.3,
+      "reviews": 34200,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "Stretchable",
+      "stitchType": "Stitched",
+      "sizes": [
+        "Free Size",
+        "M",
+        "L",
+        "XL"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "53",
+      "name": "Men Winter Muffler Woolen Stylish",
+      "price": 199,
+      "mrp": 699,
+      "image": "https://media.istockphoto.com/id/948412952/photo/man-in-the-nature-a-frosty-day.jpg?s=2048x2048&w=is&k=20&c=_r3oGEfYBZgMctRv7_Q24ZnECi0eTcT41rhI11whkhM=",
+      "rating": 4,
+      "reviews": 13400,
+      "occasion": "Winter",
+      "dupattaColor": "N/A",
+      "fit": "Free Size",
+      "stitchType": "N/A",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 2,
+      "isTrusted": false
+    },
+    {
+      "id": "54",
+      "name": "Wall Clock Analog Modern Home Decor",
+      "price": 349,
+      "mrp": 1199,
+      "image": "https://images.unsplash.com/photo-1679231511747-5494d3b86b07?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.2,
+      "reviews": 19200,
+      "occasion": "Home Decor",
+      "dupattaColor": "N/A",
+      "fit": "Standard",
+      "stitchType": "N/A",
+      "sizes": [
+        "Standard"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "55",
+      "name": "Women Hair Straightener Ceramic Plates",
+      "price": 549,
+      "mrp": 1899,
+      "image": "https://media.istockphoto.com/id/2174004416/photo/woman-straighten-her-hair-isolated-over-white-background.jpg?s=2048x2048&w=is&k=20&c=GDBpryleTqgqTV0mJEPE3gr-QdedPiJKOa7Sssc6Fq0=",
+      "rating": 4.1,
+      "reviews": 16800,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "N/A",
+      "stitchType": "N/A",
+      "sizes": [
+        "Universal"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "56",
+      "name": "Men Cargo Pants Cotton Regular Fit",
+      "price": 499,
+      "mrp": 1699,
+      "image": "https://media.istockphoto.com/id/186976964/photo/attractive-young-fashion-model-walking-in-park.jpg?s=2048x2048&w=is&k=20&c=EigF3hb8ABdt9wvVkHyuNc70q0JDWLbVl9_QFfJMo-A=",
+      "rating": 4.3,
+      "reviews": 22100,
+      "occasion": "Casual",
+      "dupattaColor": "N/A",
+      "fit": "Regular Fit",
+      "stitchType": "Stitched",
+      "sizes": [
+        "30",
+        "32",
+        "34",
+        "36"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    },
+    {
+      "id": "57",
+      "name": "Women Shoulder Sling Bag Trendy Fashion",
+      "price": 329,
+      "mrp": 1199,
+      "image": "https://plus.unsplash.com/premium_photo-1760605942802-d4266581861f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.2,
+      "reviews": 24700,
+      "occasion": "Casual",
+      "dupattaColor": "N/A",
+      "fit": "Sling",
+      "stitchType": "N/A",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "58",
+      "name": "Table Lamp Night Light LED Study Lamp",
+      "price": 299,
+      "mrp": 999,
+      "image": "https://images.unsplash.com/photo-1735476878964-93b7e4202cf2?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.1,
+      "reviews": 15600,
+      "occasion": "Daily",
+      "dupattaColor": "N/A",
+      "fit": "LED",
+      "stitchType": "N/A",
+      "sizes": [
+        "Standard"
+      ],
+      "imageCount": 3,
+      "isTrusted": true
+    },
+    {
+      "id": "59",
+      "name": "Women Saree Georgette Printed Casual Wear",
+      "price": 379,
+      "mrp": 1299,
+      "image": "https://images.unsplash.com/photo-1745482039058-92017fb981cf?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.4,
+      "reviews": 36400,
+      "occasion": "Casual",
+      "dupattaColor": "Green",
+      "fit": "Free Size",
+      "stitchType": "Stitched",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 5,
+      "isTrusted": true
+    },
+    {
+      "id": "60",
+      "name": "Men Wrist Watch Digital Sports Waterproof",
+      "price": 399,
+      "mrp": 1499,
+      "image": "https://images.unsplash.com/photo-1755078290230-652088ae7b38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.2,
+      "reviews": 19800,
+      "occasion": "Sports",
+      "dupattaColor": "N/A",
+      "fit": "Adjustable",
+      "stitchType": "N/A",
+      "sizes": [
+        "Free Size"
+      ],
+      "imageCount": 4,
+      "isTrusted": true
+    }
+  ],
+  "cart": [
+    {
+      "id": "1767445123823",
+      "userId": "1767445085013",
+      "productId": "2",
+      "name": "Women Trendy Cotton Kurti Stylish Design",
+      "price": 299,
+      "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=300&h=300&fit=crop",
+      "size": "S",
+      "quantity": 1,
+      "addedAt": "2026-01-03T12:58:43.823Z"
+    },
+    {
+      "id": "1767445136407",
+      "userId": "1767445085013",
+      "productId": "3",
+      "name": "Designer Party Wear Saree Fashion Collection",
+      "price": 399,
+      "image": "https://images.unsplash.com/photo-1610030469983-98e550d6193c?w=500&q=80",
+      "size": "Free Size",
+      "quantity": 1,
+      "addedAt": "2026-01-03T12:58:56.407Z"
+    },
+    {
+      "id": "1767445156119",
+      "userId": "1767445085013",
+      "productId": "4",
+      "name": "Stylish Phone Case Premium Protection Cover",
+      "price": 149,
+      "image": "https://images.unsplash.com/photo-1753802865615-ae986876c16e?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "size": "Universal",
+      "quantity": 1,
+      "addedAt": "2026-01-03T12:59:16.119Z"
+    }
+  ],
+  "orders": []
+}
