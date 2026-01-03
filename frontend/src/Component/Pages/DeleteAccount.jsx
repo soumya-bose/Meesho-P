@@ -7,7 +7,7 @@ const DeleteAccount = () => {
   const [showConfirmation, setShowConfirmation] = useState(false);
   const [isDeleting, setIsDeleting] = useState(false);
 
-  const API_URL = 'http://localhost:3001';
+  const API_URL = import.meta.env.VITE_API_URL || '';
 
   const handleDeleteAccount = async () => {
     const user = JSON.parse(localStorage.getItem('user'));

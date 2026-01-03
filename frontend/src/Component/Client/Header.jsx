@@ -33,7 +33,7 @@ export default function Header({ children }) {
            const [cartCount, setCartCount] = useState(0); 
 
 
-           const API_URL = 'http://localhost:3001';
+           const API_URL = import.meta.env.VITE_API_URL || '';
 
              useEffect(() => {
     const savedUser = localStorage.getItem('user');
@@ -1613,4 +1613,3 @@ const scrollRight = () => {
       
   );
 }
-

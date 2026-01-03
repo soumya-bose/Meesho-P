@@ -10,7 +10,7 @@ const SignUpModal = ({ setShowSignUp, setUser, setShowSuccessPopup }) => {
   const [error, setError] = useState('');
 
   // ✅ Backend URL - তোমার backend port অনুযায়ী
-  const API_URL = 'http://localhost:3001';
+  const API_URL = import.meta.env.VITE_API_URL || '';
 
   const generateOTP = () => {
     const otp = Math.floor(100000 + Math.random() * 900000).toString();

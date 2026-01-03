@@ -8,7 +8,7 @@ const Cart = () => {
   const [loading, setLoading] = useState(true);
   const [user, setUser] = useState(null);
 
-  const API_URL = 'http://localhost:3001';
+  const API_URL = import.meta.env.VITE_API_URL || '';
 
   useEffect(() => {
     const savedUser = localStorage.getItem('user');
