@@ -10,8 +10,7 @@ const ProductDetail = () => {
   const [showAddedPopup, setShowAddedPopup] = useState(false);
   const [loading, setLoading] = useState(true);
 
-  const API_URL =
-    "https://raw.githubusercontent.com/soumya-bose/Meesho-P/main/backend/db.json";
+  const API_URL = "https://benevolent-unicorn-186965.netlify.app/.netlify/functions";
 
   useEffect(() => {
     loadProduct();
@@ -19,16 +18,12 @@ const ProductDetail = () => {
 
   const loadProduct = async () => {
     try {
-      const response = await axios.get(API_URL);
-      const data = response.data;
-      const product = data.products.find(p => p.id === id);
-      if (product) {
-        setProduct(product);
+      const response = await axios.get(`${API_URL}/products?id=${id}`);
+      setProduct(response.data);
 
-        // প্রথম available size select করো
-        if (product.sizes && product.sizes.length > 0) {
-          setSelectedSize(product.sizes[0]);
-        }
+      // প্রথম available size select করো
+      if (response.data.sizes && response.data.sizes.length > 0) {
+        setSelectedSize(response.data.sizes[0]);
       }
 
       setLoading(false);

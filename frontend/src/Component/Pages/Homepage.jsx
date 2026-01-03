@@ -83,8 +83,7 @@ const Homepage = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  const API_URL =
-    "https://raw.githubusercontent.com/soumya-bose/Meesho-P/main/backend/db.json";
+  const API_URL = "https://benevolent-unicorn-186965.netlify.app/.netlify/functions";
 
   useEffect(() => {
     loadProducts();
@@ -99,8 +98,8 @@ const Homepage = () => {
       }
 
       const data = await response.json();
-      console.log("Loaded products:", data.products);
-      setProducts(data.products);
+      console.log("Loaded products:", data);
+      setProducts(data);
       setLoading(false);
     } catch (err) {
       console.error("Error loading products:", err);
