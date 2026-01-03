@@ -10,7 +10,7 @@ const ProductDetail = () => {
   const [showAddedPopup, setShowAddedPopup] = useState(false);
   const [loading, setLoading] = useState(true);
 
-  const API_URL = 'http://localhost:3001';
+  const API_URL = 'https://your-backend-netlify-site.netlify.app/.netlify/functions';
 
   useEffect(() => {
     loadProduct();
@@ -18,7 +18,7 @@ const ProductDetail = () => {
 
   const loadProduct = async () => {
     try {
-      const response = await axios.get(`${API_URL}/products/${id}`);
+      const response = await axios.get(`${API_URL}/products?id=${id}`);
       setProduct(response.data);
       
       // প্রথম available size select করো

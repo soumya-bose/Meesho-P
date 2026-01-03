@@ -86,7 +86,7 @@ const Homepage = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  const API_URL = 'http://localhost:3001';
+  const API_URL = 'https://your-backend-netlify-site.netlify.app/.netlify/functions';
 
   useEffect(() => {
     loadProducts();
@@ -94,14 +94,14 @@ const Homepage = () => {
 
   const loadProducts = async () => {
     try {
-      const response = await fetch(`${API_URL}/products`);
-      
+      const response = await fetch(API_URL);
+
       if (!response.ok) {
         throw new Error('Failed to load products');
       }
-      
+
       const data = await response.json();
-      console.log('Loaded products:', data); 
+      console.log('Loaded products:', data);
       setProducts(data);
       setLoading(false);
     } catch (err) {
